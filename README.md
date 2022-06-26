@@ -10,4 +10,5 @@
   - [ip8.com](https://ip8.com/ip)：可查看当前电脑的公网 IP。
   - **科学上网**
     - [旋风加速器](https://www.1fchg72qe.com/)：可用于下载用于科学上网的 APP，在手机端使用。
-
+- **二进制**
+  - [在线原码/反码/补码计算器](http://www.atoolbox.net/Tool.php?Id=952)：在线计算原码、反码和补码。
