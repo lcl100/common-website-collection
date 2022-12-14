@@ -34,8 +34,12 @@
   - [AIU FOR RESUME](https://www.coderutil.com/jianli)：在线通过 `json` 字符串制作程序员简历，简洁方便。
 - **面试**
   - [前端面试宝典](https://fe.ecool.fun/)：有大量前端面试题可以刷。
-- 接口
+- **接口**
   - [ISBN公开信息查询接口](https://jike.xyz/jiekou/isbn.html#%E5%9F%BA%E6%9C%AC%E8%AF%B4%E6%98%8E)：可以根据图书的ISBN号查询图书信息，是一个免费接口。
+- **爬虫**
+  - **随机User-Agent**
+    - [fake-useragent GitHub 官网](https://github.com/fake-useragent/fake-useragent)：适合python语言使用的随机`user-agent`包。
+    - [List of User Agent Strings](https://useragentstring.com/pages/useragentstring.php)：有各种浏览器的`User-Agent`，需要自己取爬取，而 `fake-useragent` 中的 `User-Agent` 就来自于它。
 
 
 
