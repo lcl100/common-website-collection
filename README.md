@@ -34,6 +34,8 @@
   - [AIU FOR RESUME](https://www.coderutil.com/jianli)：在线通过 `json` 字符串制作程序员简历，简洁方便。
 - **面试**
   - [前端面试宝典](https://fe.ecool.fun/)：有大量前端面试题可以刷。
+- 接口
+  - [ISBN公开信息查询接口](https://jike.xyz/jiekou/isbn.html#%E5%9F%BA%E6%9C%AC%E8%AF%B4%E6%98%8E)：可以根据图书的ISBN号查询图书信息，是一个免费接口。
 
 
 
